@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactAppLesson1/static/css/main.c305fa77.chunk.css",
+    "main.js": "/ReactAppLesson1/static/js/main.fcd24b69.chunk.js",
+    "main.js.map": "/ReactAppLesson1/static/js/main.fcd24b69.chunk.js.map",
+    "runtime-main.js": "/ReactAppLesson1/static/js/runtime-main.b6d855a2.js",
+    "runtime-main.js.map": "/ReactAppLesson1/static/js/runtime-main.b6d855a2.js.map",
+    "static/js/2.71819895.chunk.js": "/ReactAppLesson1/static/js/2.71819895.chunk.js",
+    "static/js/2.71819895.chunk.js.map": "/ReactAppLesson1/static/js/2.71819895.chunk.js.map",
+    "static/js/3.ed8d7843.chunk.js": "/ReactAppLesson1/static/js/3.ed8d7843.chunk.js",
+    "static/js/3.ed8d7843.chunk.js.map": "/ReactAppLesson1/static/js/3.ed8d7843.chunk.js.map",
+    "index.html": "/ReactAppLesson1/index.html",
+    "static/css/main.c305fa77.chunk.css.map": "/ReactAppLesson1/static/css/main.c305fa77.chunk.css.map",
+    "static/js/2.71819895.chunk.js.LICENSE.txt": "/ReactAppLesson1/static/js/2.71819895.chunk.js.LICENSE.txt",
+    "static/media/crown.svg.207ae289.svg": "/ReactAppLesson1/static/media/crown.svg.207ae289.svg",
+    "static/media/shopping-bag.svg.a688874f.svg": "/ReactAppLesson1/static/media/shopping-bag.svg.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6d855a2.js",
+    "static/js/2.71819895.chunk.js",
+    "static/css/main.c305fa77.chunk.css",
+    "static/js/main.fcd24b69.chunk.js"
+  ]
+}
